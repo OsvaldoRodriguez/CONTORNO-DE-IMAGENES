@@ -2,4 +2,4 @@
 
 Deteccion de borde de imagenes usando la matriz de kernel
 
-![Image text]()
+![Bordes](https://github.com/OsvaldoRodriguez/CONTORNO-DE-IMAGENES/blob/main/FILTRO%20IMAGENES%20OFICIAL/bordes.png)
